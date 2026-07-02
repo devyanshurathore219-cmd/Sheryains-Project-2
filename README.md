@@ -1,19 +1,14 @@
-﻿# ðŸŽ™ï¸ Reload Designs - Brand Agency Hero
+# Reload Designs
 
-A premium editorial-style frontend landing page hero section for a creative branding agency, focusing on typography layout spacing.
+A minimalist, editorial-grade creative agency landing page hero section.
 
-## ðŸ› ï¸ Tech Stack
-- HTML5
-- Pure CSS3
-- Google Fonts (Inter Tight)
+### Features
+* Modern editorial typography.
+* Silhouette image layouts.
+* Clean spacing.
 
-## âœ¨ Features
-- Editorial design layout grid with custom alignment systems.
-- Customized text silhouettes using vector wrappers.
-- Fine-tuned line-height adjustments.
+### Tech Stack
+* HTML5 / CSS3
 
-## ðŸš€ Setup & Run
-1. Open index.html directly in any web browser.
-
-## ðŸ“„ License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### License
+MIT License.
